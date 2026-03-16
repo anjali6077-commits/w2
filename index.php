@@ -1,12 +1,4 @@
-<html><head><meta charset="UTF-8" class="userpic-Lxrbsa"/><link rel="stylesheet" href="styles.css" class="holder-JniQxkHcWRQ"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="headline-EQddqDFdHBFI"/><meta name="referrer" content="no-referrer" class="narrow-wjqpJAtHbZQPuFzX"/><style> @import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #eca625; border-radius: 24px; } *::-webkit-scrollbar-thumb { background-color: #26d7ff; border-radius: 24px; border: 3px solid #eca625; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>lerniva.xyz</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YTP08B4056');
-</script>
+<html><head><meta charset="UTF-8" class="userpic-Lxrbsa"/><link rel="stylesheet" href="styles.css" class="holder-JniQxkHcWRQ"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="headline-EQddqDFdHBFI"/><meta name="referrer" content="no-referrer" class="narrow-wjqpJAtHbZQPuFzX"/><style> @import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #eca625; border-radius: 24px; } *::-webkit-scrollbar-thumb { background-color: #26d7ff; border-radius: 24px; border: 3px solid #eca625; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>lerniva.xyz</title>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
 <script>
